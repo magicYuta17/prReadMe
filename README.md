@@ -15,7 +15,7 @@
 
 ## Пример изображения
 
-![Мое фото]([lisicin.jpg](https://www.bing.com/images/search?view=detailV2&ccid=iOTudxUa&id=EC465E1CA395138AA2F16ED8C233D1C94500C1CC&thid=OIP.iOTudxUa88ho9elbneuiaAHaEK&mediaurl=https%3a%2f%2fa-static.besthdwallpaper.com%2fsatoru-gojo-is-smiling-wallpaper-3840x2160-101587_54.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.88e4ee77151af3c868f5e95b9deba268%3frik%3dzMEARcnRM8LYbg%26pid%3dImgRaw%26r%3d0&exph=2160&expw=3840&q=%d1%81%d0%b0%d1%82%d0%be%d1%80%d1%83+%d0%b3%d0%be%d0%b4%d0%b6%d0%be&FORM=IRPRST&ck=7E31DC362387FC1A707A9B7E8D5D84EE&selectedIndex=0&itb=0) "Фото с подсказкой при наведении")
+![Мое фото](https://imgfoto.host/i/satoru-gojo-is-smiling-wallpaper-3840x2160-54.yY1j8s "Фото с подсказкой при наведении")
 
 ---
 
